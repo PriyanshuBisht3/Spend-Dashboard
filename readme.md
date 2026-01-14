@@ -1,6 +1,6 @@
 # 📊 Student Spend Analysis Dashboard
 
-![Dashboard Preview](./assets/dashboard.png)
+![Dashboard Preview](/assests/dashboard.png)
 
 ## 📌 Project Overview
 
